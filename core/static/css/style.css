@@ -1,3 +1,17 @@
 body {
     background-color: black;
 }
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+#nav-bar {
+    background: blue;
+    width: 10%;
+    length: 100%;
+}
