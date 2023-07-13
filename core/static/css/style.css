@@ -10,8 +10,18 @@ h2 {
     color: white;
 }
 
-#nav-bar {
-    background: blue;
-    width: 10%;
-    length: 100%;
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 90%;
+    width: 100%;
+    background-color: blue;
+}
+
+ul {
+    color: black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    margin: 2% 5% 98% 50%;
 }
